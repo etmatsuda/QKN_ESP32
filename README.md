@@ -1,2 +1,2 @@
 # qpn
-QPN
+QPN for ESP32 (qkn)
